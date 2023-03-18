@@ -1,0 +1,37 @@
+
+.home{
+    height: 0px;
+    width: 100%;
+    overflow: hidden;
+    background-color: black;
+
+
+}
+
+
+.container{
+    background: black !important;
+}
+
+
+
+.row{
+    background-color: black;
+}
+
+.card{
+    display: none;
+}
+
+
+h1{
+    display: none;
+}
+
+
+
+
+.jq {
+    opacity:0;
+    color: white;
+}
